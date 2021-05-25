@@ -1,3 +1,5 @@
+# REPO ARCHIVED - MOVED TO https://github.sfu.ca/its/node-cas
+
 # cas
 
   Central Authentication Service (CAS) client for Node.js
